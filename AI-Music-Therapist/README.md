@@ -1,10 +1,3 @@
----
-title: Ai music Therapist
-sdk: gradio
-colorFrom: purple
-colorTo: blue
-sdk_version: 6.19.0
----
 # 🎵 AI Music Therapist
 
 > An AI-powered emotional wellness assistant that understands your emotions and instantly recommends playable Spotify music.
